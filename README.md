@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Koala 🐨</h1>
 <h3 align="center">Backend and frontend developer.</h3>
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koallaaa&layout=compact&langs_count=7&theme=gotham"/>
-  <br>
 </div>
 
 - 🔨 I’m currently learning **React & Java**
