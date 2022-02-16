@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Koala 🐨</h1>
 <h3 align="center">Backend and frontend developer.</h3>
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koallaaa&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
 </div>
 
 - 🔨 I’m currently learning **React & Java**
