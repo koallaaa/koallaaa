@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Koala 🐨</h1>
-<h3 align="center">Backend and frontend developer.</h3>
-<!-- <div align="center">
+<!--<h3 align="center">Backend and frontend developer.</h3>
+ <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koallaaa&layout=compact&langs_count=7&theme=gotham"/>
 </div> -->
 <h3 align="left">Languages and Tools:</h3>
